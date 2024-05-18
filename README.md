@@ -1,2 +1,2 @@
 # ML/AI
-Difrent models.
+Difrent models and parts of models.
